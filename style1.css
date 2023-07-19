@@ -1,0 +1,28 @@
+
+.my-style {
+  background-color: #C9D8B6;
+  color: #57837B;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 5%;
+}
+
+.parent {
+  position: relative;
+  background-color: #362222;
+  width: 300px;
+  height: 100px;
+}
+
+.child {
+  display: inline-block;
+  position: absolute;
+  background-color: #FDD2BF;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  top: 0;
+  right: 0;
+}
